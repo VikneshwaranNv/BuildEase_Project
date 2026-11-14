@@ -1,0 +1,6 @@
+{
+  "name": "BuildEase - Construction Workforce & Site Management",
+  "description": "Professional construction workforce and site-management platform for contractors, project managers, supervisors, and workers.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
